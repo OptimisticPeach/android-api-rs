@@ -1,0 +1,5 @@
+/NotificationTest
+/android_notif_test
+**/target
+**/Cargo.lock
+**/.idea

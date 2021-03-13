@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "android_api_util",
+    "android_notif",
+]
+
+exclude = [
+    "android_notif_test"
+]
